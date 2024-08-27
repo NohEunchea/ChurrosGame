@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 068d6c054d7dfcd4a8d035f57155befa
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: abba1c474f5b3f942a7540af44631277
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_Police.unity
+    guid: 43832bf5e8c96b5458b5b848baa3cf6d
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_ManToilet.unity
+    guid: 85c4ba904ebc3dd45b19bcb695f83c10
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 8f17e42e0497dbb4899be33aff139255
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_ferris wheel.unity
+    guid: d61a80ff2a995b2438ff125a2ee6e1ac
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_CleanRoom.unity
+    guid: dce992f4cb7508345afeb2f9f97beb49
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_Background.unity
+    guid: b1b371f8f07c5cc4caf2e2110623916d
+  - enabled: 1
+    path: Assets/Scenes/FileScene.unity
+    guid: 2c4f9c88806495148a9886d251438f8b
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_GoMap.unity
+    guid: 14ba23286ef2d3841b28ca3afb42cdcc
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_GoManToilet.unity
+    guid: fda692bb623d69f47a7e73685a853480
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_GoBackStage.unity
+    guid: 279d23c6a32f03b458579d209ab9b39c
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_GoCleanRoom.unity
+    guid: edb4a52e2f9435249860228de0422c3a
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_Goferris wheel.unity
+    guid: 593cb01f1a3dab94e9eedaf9511b2e6b
+  - enabled: 1
+    path: Assets/Scenes/LoadScenes/LoadScene_GoStorage.unity
+    guid: 5ecaaeff09c03d34693303f6b1efe0d6
+  - enabled: 1
+    path: Assets/Scenes/CheckClueScenes/CheckClueScene_Storage.unity
+    guid: 093cdacd4ff12ef49ae48321a82b8ab4
+  - enabled: 1
+    path: Assets/Scenes/FianlScene.unity
+    guid: 3e1a7818392fe33458589b4996f3e581
+  m_configObjects: {}

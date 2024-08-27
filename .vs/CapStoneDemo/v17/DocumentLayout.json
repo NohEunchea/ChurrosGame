@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_Workspace\\CapStoneDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|c:\\unity_workspace\\capstonedemo\\assets\\script\\mouseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mouseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|c:\\unity_workspace\\capstonedemo\\assets\\script\\fianlscene\\dialoguemanager_fianl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fianlscene\\dialoguemanager_fianl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|C:\\Unity_Workspace\\CapStoneDemo\\assets\\script\\fianlscene\\dialoguetrigger_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fianlscene\\dialoguetrigger_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|C:\\Unity_Workspace\\CapStoneDemo\\assets\\script\\fianlscene\\tutorialmanager_fianl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fianlscene\\tutorialmanager_fianl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|C:\\Unity_Workspace\\CapStoneDemo\\assets\\script\\mainbtnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainbtnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|C:\\Unity_Workspace\\CapStoneDemo\\assets\\script\\checkcluescene_police\\dialoguetrigger_poilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F532736C-A979-0F9C-9BE6-21533244E31D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\checkcluescene_police\\dialoguetrigger_poilce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouseEvent.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\MouseEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MouseEvent.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\MouseEvent.cs",
+              "RelativeToolTip": "Assets\\Script\\MouseEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:50:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainBtnManager.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\MainBtnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainBtnManager.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\MainBtnManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MainBtnManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCIAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-06T22:15:10.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TutorialManager_Fianl.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\TutorialManager_Fianl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FianlScene\\TutorialManager_Fianl.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\TutorialManager_Fianl.cs",
+              "RelativeToolTip": "Assets\\Script\\FianlScene\\TutorialManager_Fianl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-06T22:01:15.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueTrigger_Poilce.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\CheckClueScene_Police\\DialogueTrigger_Poilce.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CheckClueScene_Police\\DialogueTrigger_Poilce.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\CheckClueScene_Police\\DialogueTrigger_Poilce.cs",
+              "RelativeToolTip": "Assets\\Script\\CheckClueScene_Police\\DialogueTrigger_Poilce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-06T22:01:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueTrigger_final.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\DialogueTrigger_final.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FianlScene\\DialogueTrigger_final.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\DialogueTrigger_final.cs",
+              "RelativeToolTip": "Assets\\Script\\FianlScene\\DialogueTrigger_final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-06T22:01:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueManager_fianl.cs",
+              "DocumentMoniker": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\DialogueManager_fianl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FianlScene\\DialogueManager_fianl.cs",
+              "ToolTip": "C:\\Unity_Workspace\\CapStoneDemo\\Assets\\Script\\FianlScene\\DialogueManager_fianl.cs",
+              "RelativeToolTip": "Assets\\Script\\FianlScene\\DialogueManager_fianl.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T22:01:08.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
