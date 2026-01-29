@@ -44,7 +44,6 @@ public class FindEvidence_BackStage : MonoBehaviour
         //콜팝
         bg_center_clue1_isClick = true;
 
-
         if (bg_center_clue1_isClick)
         {
             popUpImg.sprite = bg_center_clue1_Img;
@@ -72,7 +71,6 @@ public class FindEvidence_BackStage : MonoBehaviour
     {
         //콜팝
         bg_center_clue1_1_isClick = true;
-
 
         if (bg_center_clue1_1_isClick)
         {

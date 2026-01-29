@@ -38,9 +38,8 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(Dialogue dialogue)
     {
-
         nameText.text = dialogue.name;
-
+        
         sentences.Clear();
 
         foreach (string sentence in dialogue.sentences)

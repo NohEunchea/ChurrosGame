@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/LoadScenes/LoadScene_GoManToilet.unity
+- path: Assets/Scenes/Test_CheckClueScene_Background.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
