@@ -32,4 +32,4 @@ git lfs pull로 실제 파일을 다운받아 해결!
 ---
 
 증거찾는 Scene 하이어라키 구성
-![alt text]("images/ClueSceneHierarchy.png")
+![증거씬하이어라키](images/ClueSceneHierarchy.png)
